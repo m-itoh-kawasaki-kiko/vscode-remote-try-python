@@ -1,3 +1,14 @@
+
+Microsoft ODBC Driver for SQL Server ????????? (Linux)
+https://docs.microsoft.com/ja-jp/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017
+
+
+
+
+
+
+
+
 # Try Out Development Containers: Python
 
 This is a sample project that lets you try out the **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)** extension in a few easy steps.
